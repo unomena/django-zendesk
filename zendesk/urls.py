@@ -7,5 +7,5 @@ admin.autodiscover()
 #------------------------------------------------------------------------------
 urlpatterns = patterns('',
 
-    (r'^authorize/', 'django_zendesk.views.authorize'),
+    (r'^authorize/', 'zendesk.views.authorize'),
 )

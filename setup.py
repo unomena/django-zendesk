@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-zendesk',
-    version='0.0.3',
+    version='0.0.4',
     description='Django integration for Zendesk',
     long_description = open('README', 'r').read() + open('AUTHORS.rst', 'r').read() + open('CHANGELOG.rst', 'r').read(),
     author='Unomena',
